@@ -14,8 +14,7 @@ The primary dataset used for this project is sourced from the "congresstweets" d
 The repository is organized as follows:
 
 - `Code/`: Contains all the Python scripts and Jupyter notebooks used for data preprocessing, analysis, and visualization.
-- `Data/`: Houses the raw and processed data files. 
- -  Note: Having Trouble uploading Data to GitHub due to the dataset size. If you want access to the dataset feel free to email: chasen.jeffries@cgu.edu. 
+- `Data/`: Houses the raw and processed data files. Note: Due to difficulties uploading Dataset to GitHub due to the dataset size. If you want access to the dataset feel free to email: chasen.jeffries@cgu.edu. 
 - `Documents/`: Documentation files, including the README you're reading right now.
 
 ## Dependencies
