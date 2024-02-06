@@ -3,7 +3,7 @@ This project analyzes US Congressional tweets from June 2017 to July 2023 using 
 
 ## Introduction
 
-This repository houses the code and data for the [US Politicians Tweets NLP Project](https://github.com/Chasen-Jeffries/US_Politicians_Tweet_NLP_Analysis). The project aims to analyze and gain insights from tweets posted by members of the US Congress. By applying Natural Language Processing (NLP) techniques, the project aims to uncover linguistic patterns, sentiment analysis, and named entities present in the tweets.
+This repository houses the code and data for the [US Congress Tweets NLP Project](https://github.com/Chasen-Jeffries/US_Congress_Tweet_NLP_Analysis). The project aims to analyze and gain insights from tweets posted by members of the US Congress. By applying Natural Language Processing (NLP) techniques, the project aims to uncover linguistic patterns, sentiment analysis, and named entities present in the tweets.
 
 ## Data Source
 
