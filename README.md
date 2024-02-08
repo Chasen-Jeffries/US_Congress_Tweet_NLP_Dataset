@@ -1,5 +1,5 @@
-# US Congressional Tweets NLP Project
-This project analyzes US Congressional tweets from June 2017 to July 2023 using NLP techniques. Extracting linguistic patterns, sentiments, and entities, it unveils insights into legislative communication trends.
+# US Congressional Tweets NLP Dataset
+This dataset analyzes tweets from US Congress members between June 2017 and July 2023, using natural language processing (NLP) techniques to detect patterns, sentiments, and key topics. This reveals quantifiable shifts in legislative communication, shedding light on evolving political priorities and the ways in which they are expressed.
 
 ## 📜 Introduction
 
